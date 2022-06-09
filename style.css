@@ -721,7 +721,7 @@ header .navbar a:hover {
 @media (max-width: 400px) {
 
     html {
-        font-size: 50%;
+        font-size: 55%;
     }
 
     .project .box-container .box {
